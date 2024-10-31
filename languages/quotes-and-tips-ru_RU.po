@@ -1,0 +1,1073 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quotes and Tips by BestWebSoft\n"
+"POT-Creation-Date: 2023-07-18 12:33+0300\n"
+"PO-Revision-Date: 2023-07-18 12:58+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: quotes-and-tips.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: bws_menu\n"
+
+#: includes/class-qtsndtps-settings.php:22 quotes-and-tips.php:39
+#: quotes-and-tips.php:43 quotes-and-tips.php:662 quotes-and-tips.php:680
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/class-qtsndtps-settings.php:23
+msgid "Appearance"
+msgstr "Отображение"
+
+#: includes/class-qtsndtps-settings.php:24
+msgid "Misc"
+msgstr "Разное"
+
+#: includes/class-qtsndtps-settings.php:25
+msgid "Custom Code"
+msgstr "Пользовательский код"
+
+#: includes/class-qtsndtps-settings.php:46
+msgid "None"
+msgstr "Не использовать"
+
+#: includes/class-qtsndtps-settings.php:47
+msgid "Default"
+msgstr "По умолчанию"
+
+#: includes/class-qtsndtps-settings.php:48
+msgid "Custom"
+msgstr "Пользовательское"
+
+#: includes/class-qtsndtps-settings.php:82
+msgid "Sorry, your nonce did not verify."
+msgstr "Извините, ваш одноразовый номер не прошел проверку."
+
+#: includes/class-qtsndtps-settings.php:121
+msgid "There is no data about the uploaded file."
+msgstr "Отсутствуют данные о загружаемом файле."
+
+#: includes/class-qtsndtps-settings.php:123
+msgid "Image/video was not uploaded by HTTP POST. Possible file upload attack."
+msgstr ""
+"Изображение не было загружено через HTTP POST. Присутствует вероятность "
+"заражения файла при загрузке."
+
+#: includes/class-qtsndtps-settings.php:125
+msgid ""
+"Wrong file format. The image should be png, jpg(jpeg) or gif, the video "
+"should be mp4, m4v, webm, ogv or flv"
+msgstr ""
+"Неправильный формат файла. Изображение должно быть в формате png, jpg(jpeg) "
+"или gif, видео должно быть в формате mp4, m4v, webm, ogv или flv."
+
+#: includes/class-qtsndtps-settings.php:127
+msgid "The file size should not exceed"
+msgstr "Размер файла не должен превышать"
+
+#: includes/class-qtsndtps-settings.php:135
+msgid "Could not create image directory."
+msgstr "Не удалось создать директорию для изображений."
+
+#: includes/class-qtsndtps-settings.php:140
+#, php-format
+msgid "The uploaded file could not be moved to %s."
+msgstr "Загруженный файл не может быть перемещен в %s."
+
+#: includes/class-qtsndtps-settings.php:156
+msgid "Could not save background image/video file to WordPress media library."
+msgstr ""
+"Не удалось сохранить фоновое изображение/видеофайл в медиатеке WordPress."
+
+#: includes/class-qtsndtps-settings.php:244
+msgid "Settings saved."
+msgstr "Настройки сохранены."
+
+#: includes/class-qtsndtps-settings.php:254 quotes-and-tips.php:39
+#: quotes-and-tips.php:43 quotes-and-tips.php:650
+msgid "Quotes and Tips Settings"
+msgstr "Настройки Quotes and Tips"
+
+#: includes/class-qtsndtps-settings.php:259
+msgid "Random Change on"
+msgstr "Случайное изменение на"
+
+#: includes/class-qtsndtps-settings.php:262
+msgid "Page reload"
+msgstr "Перезагрузка страницы"
+
+#: includes/class-qtsndtps-settings.php:263
+msgid "Once a day"
+msgstr "Один раз в день"
+
+#: includes/class-qtsndtps-settings.php:263
+msgid "AJAX (no page reload)"
+msgstr "AJAX (без перезагрузки страницы)"
+
+#: includes/class-qtsndtps-settings.php:268
+msgid "Change Frequency"
+msgstr "Частота изменения"
+
+#: includes/class-qtsndtps-settings.php:270
+msgid "sec"
+msgstr "сек"
+
+#: includes/class-qtsndtps-settings.php:274
+msgid "Title Options"
+msgstr "Настройки названий блоков"
+
+#: includes/class-qtsndtps-settings.php:277
+msgid "Set Title From Post"
+msgstr "Использовать название из названия цитаты или подсказки"
+
+#: includes/class-qtsndtps-settings.php:278
+msgid "Set Custom Titles"
+msgstr "Использовать пользовательские названия"
+
+#: includes/class-qtsndtps-settings.php:283
+msgid "Tip Title"
+msgstr "Название блока подсказки"
+
+#: includes/class-qtsndtps-settings.php:289
+msgid "Quote Title"
+msgstr "Название блока цитаты"
+
+#: includes/class-qtsndtps-settings.php:295
+msgid "Add Quotes and Tips to the Search"
+msgstr "Добавить Quotes and Tips в поиск"
+
+#: includes/class-qtsndtps-settings.php:305
+#, php-format
+msgid "Go to %s Settings to include quotes and tips to your website search"
+msgstr ""
+"Перейдите в настройки %s, чтобы включить цитаты и советы в поиск по сайту."
+
+#: includes/class-qtsndtps-settings.php:312
+#: includes/class-qtsndtps-settings.php:318
+msgid ""
+"Enable to include quotes and tips to your website search. Custom Search "
+"plugin is required."
+msgstr ""
+"Включить цитаты и подсказки в поиск на вашем сайте. Требуется плагин Custom "
+"Search."
+
+#: includes/class-qtsndtps-settings.php:312
+msgid "Activate Now"
+msgstr "Активировать сейчас"
+
+#: includes/class-qtsndtps-settings.php:318
+#: includes/class-qtsndtps-settings.php:345
+msgid "Install Now"
+msgstr "Установить сейчас"
+
+#: includes/class-qtsndtps-settings.php:323
+msgid "Automatic Mailout when Publishing a New:"
+msgstr "Автоматическая рассылка при публикации нового:"
+
+#: includes/class-qtsndtps-settings.php:332
+#, php-format
+msgid ""
+"Go to %s Settings to include quotes and tips to automatic mailout when "
+"publishing a new quotes and tips"
+msgstr ""
+"Перейдите в Настройки %s, чтобы включить цитаты и советы в автоматическую "
+"рассылку при публикации новых цитат и советов."
+
+#: includes/class-qtsndtps-settings.php:339
+#: includes/class-qtsndtps-settings.php:345
+msgid ""
+"Enable to automatic mailout when publishing a new quotes and tips. Sender "
+"Pro plugin is required."
+msgstr ""
+"Включите автоматическую рассылку при публикации новых цитат и советов. "
+"Требуется плагин Sender Pro."
+
+#: includes/class-qtsndtps-settings.php:339
+msgid "Ativate Now"
+msgstr "Активировать сейчас"
+
+#: includes/class-qtsndtps-settings.php:350
+msgid "Remove Quatation Marks"
+msgstr "Удалить кавычки"
+
+#: includes/class-qtsndtps-settings.php:355
+msgid "Enable to remove quatation marks."
+msgstr "Включите, чтобы удалить кавычки."
+
+#: includes/class-qtsndtps-settings.php:368
+msgid "Appearance Settings"
+msgstr "Настройки отображения"
+
+#: includes/class-qtsndtps-settings.php:373
+msgid "Custom Styles"
+msgstr "Использовать пользовательские стили"
+
+#: includes/class-qtsndtps-settings.php:377
+msgid "Enable to apply custom styles."
+msgstr "Разрешить применять собственные стили."
+
+#: includes/class-qtsndtps-settings.php:384
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: includes/class-qtsndtps-settings.php:390
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: includes/class-qtsndtps-settings.php:396
+msgid "Background Image/Video"
+msgstr "Фоновое изображение/видео"
+
+#: includes/class-qtsndtps-settings.php:415
+msgid ""
+"The image should be png, jpg(jpeg) or gif, the video should be mp4, m4v, "
+"webm, ogv or flv. The file size should not exceed"
+msgstr ""
+"Изображение должно быть в формате png, jpg(jpeg) или gif, видео должно быть "
+"в формате mp4, m4v, webm, ogv или flv. Размер файла не должен превышать"
+
+#: includes/class-qtsndtps-settings.php:417
+msgid "Current Background"
+msgstr "Текущий фон"
+
+#: includes/class-qtsndtps-settings.php:437
+msgid "Your browser does not support the video tag"
+msgstr "Ваш браузер не поддерживает видео тег"
+
+#: includes/class-qtsndtps-settings.php:452
+msgid "Background Image Opacity"
+msgstr "Прозрачность фонового изображения"
+
+#: includes/class-qtsndtps-settings.php:463
+msgid "Background Image Repeat"
+msgstr "Повтор фонового изображения"
+
+#: includes/class-qtsndtps-settings.php:466
+msgid "Horizontal Repeat (x)"
+msgstr "По горизонтали (х)"
+
+#: includes/class-qtsndtps-settings.php:467
+msgid "Vertical Repeat (y)"
+msgstr "По вертикали (у)"
+
+#: includes/class-qtsndtps-settings.php:468
+msgid "Cover"
+msgstr "Обложка"
+
+#: includes/class-qtsndtps-settings.php:473
+msgid "Background Image Alignment"
+msgstr "Выравнивание фонового изображения"
+
+#: includes/class-qtsndtps-settings.php:506
+msgid "Quotes and Tips"
+msgstr "Quotes and Tips"
+
+#: includes/class-qtsndtps-settings.php:509
+msgid ""
+"Add Quotes and Tips block to your page or post by using the following "
+"shortcode:"
+msgstr ""
+"Добавьте блок Quotes and Tips в ваши записи, страницы, используя следующий "
+"шорткод:"
+
+#: includes/class-qtsndtps-settings.php:511
+msgid "Or add the following strings into the template source code"
+msgstr "Или вставьте данные строки в исходный код шаблона вашей темы"
+
+#: quotes-and-tips.php:175 quotes-and-tips.php:270 quotes-and-tips.php:271
+msgid "Tips"
+msgstr "Подсказки"
+
+#: quotes-and-tips.php:176
+msgid "The quotes from our clients"
+msgstr "Цитаты наших клиентов"
+
+#: quotes-and-tips.php:244 quotes-and-tips.php:1324
+msgid "Tips Categories"
+msgstr "Категории советов"
+
+#: quotes-and-tips.php:245
+msgid "Tips Category"
+msgstr "Категория советов"
+
+#: quotes-and-tips.php:246
+msgid "Add Tips Category"
+msgstr "Добавить категорию советов"
+
+#: quotes-and-tips.php:247
+msgid "Add New Tips Category"
+msgstr "Добавить новую категорию советов"
+
+#: quotes-and-tips.php:248 quotes-and-tips.php:249
+msgid "Edit Tips Category"
+msgstr "Изменить категорию советов"
+
+#: quotes-and-tips.php:250
+msgid "New Tips Category"
+msgstr "Новая категория советов"
+
+#: quotes-and-tips.php:251 quotes-and-tips.php:252
+msgid "View Tips Category"
+msgstr "Просмотр категории советов"
+
+#: quotes-and-tips.php:253
+msgid "Find Tips Category"
+msgstr "Найти категорию советов"
+
+#: quotes-and-tips.php:254
+msgid "No Tips Categories found"
+msgstr "Категории советов не найдены"
+
+#: quotes-and-tips.php:255
+msgid "No Tips Categories found in Trash"
+msgstr "Категории советов не найдены в корзине"
+
+#: quotes-and-tips.php:256
+msgid "Parent Tips Category"
+msgstr "Родительская категория советов"
+
+#: quotes-and-tips.php:257
+msgid "Tips Categories list navigation"
+msgstr "Навигация списка подсказок"
+
+#: quotes-and-tips.php:258
+msgid "Tips Categories list"
+msgstr "Список категорий советов"
+
+#: quotes-and-tips.php:281
+msgid "Add a New Tip"
+msgstr "Добавить новую подсказку"
+
+#: quotes-and-tips.php:282
+msgid "Edit Tip"
+msgstr "Редактировать подсказку"
+
+#: quotes-and-tips.php:283
+msgid "New Tip"
+msgstr "Новая подсказка"
+
+#: quotes-and-tips.php:284
+msgid "View Tip"
+msgstr "Просмотреть подсказку"
+
+#: quotes-and-tips.php:285
+msgid "Search Tip"
+msgstr "Поиск подсказки"
+
+#: quotes-and-tips.php:286
+msgid "No tips found"
+msgstr "Ни одной подсказки не найдено"
+
+#: quotes-and-tips.php:287
+msgid "No tips found in Trash"
+msgstr "Ни одной подсказки в корзине не найдено"
+
+#: quotes-and-tips.php:288
+msgid "Filter tips list"
+msgstr "Фильтр списка подсказок"
+
+#: quotes-and-tips.php:289
+msgid "Tips list navigation"
+msgstr "Навигация списка подсказок"
+
+#: quotes-and-tips.php:290
+msgid "Tips list"
+msgstr "Список подсказок"
+
+#: quotes-and-tips.php:306 quotes-and-tips.php:1310
+msgid "Quotes Categories"
+msgstr "Категории цитат"
+
+#: quotes-and-tips.php:307
+msgid "Quotes Category"
+msgstr "Категория цитат"
+
+#: quotes-and-tips.php:308
+msgid "Add Quotes Category"
+msgstr "Добавить категорию цитат"
+
+#: quotes-and-tips.php:309
+msgid "Add New Quotes Category"
+msgstr "Добавить новую категорию цитат"
+
+#: quotes-and-tips.php:310 quotes-and-tips.php:311
+msgid "Edit Quotes Category"
+msgstr "Изменить категорию цитат"
+
+#: quotes-and-tips.php:312
+msgid "New Quotes Category"
+msgstr "Новая категория цитат"
+
+#: quotes-and-tips.php:313 quotes-and-tips.php:314
+msgid "View Quotes Category"
+msgstr "Просмотр категории цитат"
+
+#: quotes-and-tips.php:315
+msgid "Find Quotes Category"
+msgstr "Найти категорию цитат"
+
+#: quotes-and-tips.php:316
+msgid "No Quotes Categories found"
+msgstr "Категории цитат не найдены"
+
+#: quotes-and-tips.php:317
+msgid "No Quotes Categories found in Trash"
+msgstr "Категории цитат в корзине не найдены"
+
+#: quotes-and-tips.php:318
+msgid "Parent Quotes Category"
+msgstr "Родительские категория цитат"
+
+#: quotes-and-tips.php:319
+msgid "Quotes Categories list navigation"
+msgstr "Навигация списка цитат"
+
+#: quotes-and-tips.php:320
+msgid "Quotes Categories list"
+msgstr "Список категорий цитат"
+
+#: quotes-and-tips.php:333 quotes-and-tips.php:334
+msgid "Quotes"
+msgstr "Цитаты"
+
+#: quotes-and-tips.php:344
+msgid "Add a New Quote"
+msgstr "Добавить новую цитату"
+
+#: quotes-and-tips.php:345
+msgid "Edit Quote"
+msgstr "Редактировать цитату"
+
+#: quotes-and-tips.php:346
+msgid "New Quote"
+msgstr "Новая цитата"
+
+#: quotes-and-tips.php:347
+msgid "View Quote"
+msgstr "Просмотреть цитату"
+
+#: quotes-and-tips.php:348
+msgid "Search Quote"
+msgstr "Поиск цитаты"
+
+#: quotes-and-tips.php:349
+msgid "No quote found"
+msgstr "Ни одной цитаты не найдено"
+
+#: quotes-and-tips.php:350
+msgid "No quote found in Trash"
+msgstr "Ни одной цитаты в корзине не найдено"
+
+#: quotes-and-tips.php:351
+msgid "Filter quotes list"
+msgstr "Фильтр списка цитат"
+
+#: quotes-and-tips.php:352
+msgid "Quotes list navigation"
+msgstr "Навигация списка цитат"
+
+#: quotes-and-tips.php:353
+msgid "Quotes list"
+msgstr "Список цитат"
+
+#: quotes-and-tips.php:611
+msgid "Name:"
+msgstr "Имя:"
+
+#: quotes-and-tips.php:619
+msgid "Official Position:"
+msgstr "Официальное положение (должность):"
+
+#: quotes-and-tips.php:633
+msgid "Name and Official Position"
+msgstr "Имя и официальное положение"
+
+#: quotes-and-tips.php:664
+msgid "FAQ"
+msgstr "FAQ"
+
+#: quotes-and-tips.php:665
+msgid "Support"
+msgstr "Поддержка"
+
+#: quotes-and-tips.php:998
+msgid "MB"
+msgstr "MB"
+
+#: quotes-and-tips.php:1002
+msgid "KB"
+msgstr "KB"
+
+#: quotes-and-tips.php:1005
+msgid "Bytes"
+msgstr "Байт"
+
+#: quotes-and-tips.php:1031
+msgid "Add Quotes and Tips block to your page or post"
+msgstr "Добавить блок Quotes and Tips на вашу страницу или пост"
+
+#: quotes-and-tips.php:1035
+msgid "Quotes and Tips Block"
+msgstr "Блок цитат и советов"
+
+#: quotes-and-tips.php:1043
+msgid "Display quotes"
+msgstr "Отобразить цитаты"
+
+#: quotes-and-tips.php:1047 quotes-and-tips.php:1066
+msgid "All categories"
+msgstr "Все категории"
+
+#: quotes-and-tips.php:1061
+msgid "Display tips"
+msgstr "Отобразить подсказки"
+
+#: quotes-and-tips.php:1081
+msgid "Display Quote"
+msgstr "Показать цитату"
+
+#: quotes-and-tips.php:1095 quotes-and-tips.php:1124
+msgid "no title"
+msgstr "без заголовка"
+
+#: quotes-and-tips.php:1110
+msgid "Display Tip"
+msgstr "Display Tip"
+
+#: quotes-and-tips.php:1308 quotes-and-tips.php:1322
+msgid "Title"
+msgstr "Заголовок"
+
+#: quotes-and-tips.php:1309 quotes-and-tips.php:1323 quotes-and-tips.php:1374
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: quotes-and-tips.php:1311 quotes-and-tips.php:1325
+msgid "Author"
+msgstr "Автор"
+
+#: quotes-and-tips.php:1312 quotes-and-tips.php:1326
+msgid "Date"
+msgstr "Дата"
+
+#. Plugin Name of the plugin/theme
+msgid "Quotes and Tips by BestWebSoft"
+msgstr "Quotes and Tips от  BestWebSoft"
+
+#. Plugin URI of the plugin/theme
+msgid "https://bestwebsoft.com/products/wordpress/plugins/quotes-and-tips/"
+msgstr "https://bestwebsoft.com/products/wordpress/plugins/quotes-and-tips/"
+
+#. Description of the plugin/theme
+msgid ""
+"Add customizable quotes and tips blocks to WordPress posts, pages and "
+"widgets."
+msgstr ""
+"Добавляйте настраиваемые блоки цитат и советов в посты, страницы и виджеты "
+"WordPress."
+
+#. Author of the plugin/theme
+msgid "BestWebSoft"
+msgstr "BestWebSoft"
+
+#. Author URI of the plugin/theme
+msgid "https://bestwebsoft.com/"
+msgstr "https://bestwebsoft.com/"
+
+#~ msgid "requires"
+#~ msgstr "требует"
+
+#~ msgid ""
+#~ "or higher, that is why it has been deactivated! Please upgrade WordPress "
+#~ "and try again."
+#~ msgstr ""
+#~ "или выше, поэтому он был деактивирован! Пожалуйста, обновите WordPress и "
+#~ "попробуйте еще раз."
+
+#~ msgid "Back to the WordPress"
+#~ msgstr "Вернуться назад на"
+
+#~ msgid "Plugins page"
+#~ msgstr "Страницу плагинов"
+
+#, fuzzy
+#~| msgid "Rate the plugin"
+#~ msgid "Like the plugin?"
+#~ msgstr "Оценить плагин"
+
+#, fuzzy
+#~| msgid "Rate the plugin"
+#~ msgid "Want to support the plugin?"
+#~ msgstr "Оценить плагин"
+
+#, fuzzy
+#~| msgid "Add a New Tip"
+#~ msgid "Add New"
+#~ msgstr "Добавить новую подсказку"
+
+#, fuzzy
+#~| msgid "Activate Now"
+#~ msgid "Start Now"
+#~ msgstr "Активировать сейчас"
+
+#, fuzzy
+#~| msgid "Notice:"
+#~ msgid "Notice"
+#~ msgstr "Внимание:"
+
+#, fuzzy
+#~| msgid "All plugin settings were restored."
+#~ msgid "The plugin's settings have been changed."
+#~ msgstr "Все настройки плагина восстановлены."
+
+#~ msgid "Save Changes"
+#~ msgstr "Сохранить изменения"
+
+#, fuzzy
+#~| msgid "Shortcode"
+#~ msgid "Add BWS Shortcode"
+#~ msgstr "Шорткод"
+
+#, fuzzy
+#~| msgid "Shortcode"
+#~ msgid "Add shortcode"
+#~ msgstr "Шорткод"
+
+#, fuzzy
+#~| msgid "Plugins page"
+#~ msgid "Plugin"
+#~ msgstr "Страницу плагинов"
+
+#, fuzzy
+#~| msgid "Shortcode"
+#~ msgid "Shortcode settings"
+#~ msgstr "Шорткод"
+
+#, fuzzy
+#~| msgid "None"
+#~ msgid "No"
+#~ msgstr "Не использовать"
+
+#, fuzzy
+#~| msgid "Plugins page"
+#~ msgid "Plugins"
+#~ msgstr "Страницу плагинов"
+
+#, fuzzy
+#~| msgid "Activate Now"
+#~ msgid "Activate"
+#~ msgstr "Активировать сейчас"
+
+#, fuzzy
+#~| msgid "Upload settings"
+#~ msgid "Upload Plugin"
+#~ msgstr "Настройки загрузки"
+
+#, fuzzy
+#~| msgid "Install Now"
+#~ msgid "Installed"
+#~ msgstr "Установить сейчас"
+
+#, fuzzy
+#~| msgid "Filter quotes list"
+#~ msgid "Filter results"
+#~ msgstr "Фильтр списка цитат"
+
+#, fuzzy
+#~| msgid "Display category \""
+#~ msgid "Category"
+#~ msgstr "Отобразить по категории"
+
+#, fuzzy
+#~| msgid "Rate the plugin"
+#~ msgid "Activate this plugin"
+#~ msgstr "Оценить плагин"
+
+#, fuzzy
+#~| msgid "Rate the plugin"
+#~ msgid "Install this plugin"
+#~ msgstr "Оценить плагин"
+
+#, fuzzy
+#~| msgid "Support"
+#~ msgid "Send to support"
+#~ msgstr "Поддержка"
+
+#, fuzzy
+#~| msgid "Activate Now"
+#~ msgid "Active"
+#~ msgstr "Активировать сейчас"
+
+#~ msgid "All plugin settings were restored."
+#~ msgstr "Все настройки плагина восстановлены."
+
+#, fuzzy
+#~| msgid "Using"
+#~ msgid "Browsing"
+#~ msgstr "Используя"
+
+#, fuzzy
+#~| msgid "Activate Custom Search"
+#~ msgid "Activate custom %s code."
+#~ msgstr "Активировать Custom Search"
+
+#, fuzzy
+#~| msgid "Display Settings"
+#~ msgid "Miscellaneous Settings"
+#~ msgstr "Настройки отображения"
+
+#, fuzzy
+#~| msgid "Title Options"
+#~ msgid "Pro Options"
+#~ msgstr "Настройки названий блоков"
+
+#, fuzzy
+#~| msgid "Display Settings"
+#~ msgid "Default Settings"
+#~ msgstr "Настройки отображения"
+
+#, fuzzy
+#~| msgid "Appearance Settings"
+#~ msgid "Restore Settings"
+#~ msgstr "Настройки отображения"
+
+#, fuzzy
+#~| msgid "Appearance Settings"
+#~ msgid "Manage License Settings"
+#~ msgstr "Настройки отображения"
+
+#, fuzzy
+#~| msgid "Image Processing Error"
+#~ msgid "Processing"
+#~ msgstr "Ошибка обработки изображений"
+
+#, fuzzy
+#~| msgid "Support"
+#~ msgid "Contact Support"
+#~ msgstr "Поддержка"
+
+#, fuzzy
+#~| msgid "Rate the plugin"
+#~ msgid "What's the plugin name?"
+#~ msgstr "Оценить плагин"
+
+#, fuzzy
+#~| msgid "Settings saved"
+#~ msgid "the setting page"
+#~ msgstr "Настройки сохранены"
+
+#, fuzzy
+#~| msgid "All plugin settings were restored."
+#~ msgid "Restore all plugin settings to defaults"
+#~ msgstr "Все настройки плагина восстановлены."
+
+#, fuzzy
+#~| msgid "Upload settings"
+#~ msgid "Restore settings"
+#~ msgstr "Настройки загрузки"
+
+#, fuzzy
+#~| msgid "Rate the plugin"
+#~ msgid "version of the plugin."
+#~ msgstr "Оценить плагин"
+
+#, fuzzy
+#~| msgid "Tips list navigation"
+#~ msgid "Navigation"
+#~ msgstr "Навигация списка подсказок"
+
+#~ msgid "Enable to include quotes to your website search using"
+#~ msgstr "Включить цитаты в поиск на вашем сайте, используя"
+
+#~ msgid "Enable to include tips to your website search using"
+#~ msgstr "Включить подсказки в поиск на вашем сайте, используя"
+
+#~ msgid "Select mailout priority"
+#~ msgstr "Выберите приоритет рассылки"
+
+#~ msgid "Less number - higher priority"
+#~ msgstr "Меньше числа - более высокий приоритет"
+
+#, fuzzy
+#~ msgid "Background Image"
+#~ msgstr "Фоновое изображение"
+
+#~ msgid "Current Image"
+#~ msgstr "Текущее изображение"
+
+#~ msgid ""
+#~ "For sorting Quotes or Tips block by category add to your page or post by "
+#~ "using the following shortcode. Where type is \"quotes\" or \"tips\", and "
+#~ "quotes_cat_id is the category number."
+#~ msgstr ""
+#~ "Для сортировки блока Quotes или Tips по категориям, добавьте на свою "
+#~ "страницу или публикацию следующий шорткод. Где type это \"quotes\" или "
+#~ "\"tips\", а quotes_cat_id - номер категории."
+
+#~ msgid "Display quotes and tips"
+#~ msgstr "Отобразить цитаты и подсказки"
+
+#~ msgid "Display all categories for quotes"
+#~ msgstr "Отобразить цитаты для всех категорий"
+
+#~ msgid "Display category %s for quotes"
+#~ msgstr "Отобразить цитаты для категории %s"
+
+#~ msgid "Display all categories for tips"
+#~ msgstr "Отобразить подсказки для всех категорий"
+
+#~ msgid "Display category %s for tips"
+#~ msgstr "Отобразить подсказки для категории %s"
+
+#~ msgid "Display category for quotes and tips"
+#~ msgstr "Отобразить цитаты и подсказки по категориям"
+
+#~ msgid ""
+#~ "For sorting Quotes and Tips block by category add to your page or post by "
+#~ "using the following shortcode. Where cat_id is the category number."
+#~ msgstr ""
+#~ "Для сортировки блока Quotes and Tips по категориям, добавьте на свою "
+#~ "страницу или публикацию следующий шорткод. Где cat_id - номер категории."
+
+#~ msgid "Left"
+#~ msgstr "Слева"
+
+#~ msgid "Center"
+#~ msgstr "По центру"
+
+#~ msgid "Right"
+#~ msgstr "Справа"
+
+#~ msgid "Top"
+#~ msgstr "Вверху"
+
+#~ msgid "Bottom"
+#~ msgstr "Внизу"
+
+#~ msgid "Random Order With the Page Reload"
+#~ msgstr "Отображать в случайном порядке при перезагрузке страницы"
+
+#~ msgid "Random Order Without the Page Reload"
+#~ msgstr "Отображать в случайном порядке без перезагрузки страницы"
+
+#~ msgid "Use Default Styles"
+#~ msgstr "Использовать стили по умолчанию"
+
+#~ msgid "Background Image Horizontal Alignment"
+#~ msgstr "Выравнивание фонового изображения по горизонтали"
+
+#~ msgid "Add Quotes and Tips block to your page or post:"
+#~ msgstr "Добавить блок Quotes and Tips на вашу страницу или пост:"
+
+#~ msgid "Official position:"
+#~ msgstr "Официальное положение (должность):"
+
+#~ msgid "Name and Official position"
+#~ msgstr "Имя и официальное положение"
+
+#~ msgid "Display settings"
+#~ msgstr "Настройки отображения"
+
+#~ msgid "Random order with the page reload"
+#~ msgstr "Отображать в случайном порядке при перезагрузке страницы"
+
+#~ msgid "Random order without the page reload"
+#~ msgstr "Отображать в случайном порядке без перезагрузки страницы"
+
+#~ msgid "Change frequency (in seconds)"
+#~ msgstr "Частота изменения (в секундах)"
+
+#~ msgid "Get title from post"
+#~ msgstr "Получить название из названия цитаты или подсказки"
+
+#~ msgid "Add Quotes and Tips to the search"
+#~ msgstr "Добавить Quotes and Tips в поиск"
+
+#~ msgid "Horizontal repeat (x)"
+#~ msgstr "По горизонтали (х)"
+
+#~ msgid "Vertical repeat (y)"
+#~ msgstr "По вертикали (у)"
+
+#~ msgid "Tip title"
+#~ msgstr "Название блока подсказки"
+
+#~ msgid "Quotes from our clients"
+#~ msgstr "Цитаты наших клиентов"
+
+#~ msgid "Title options"
+#~ msgstr "Настройки названий блоков"
+
+#~ msgid "Background image Horizontal Alignment"
+#~ msgstr "Выравнивание фонового изображения по горизонтали"
+
+#~ msgid "Background image vertical alignment"
+#~ msgstr "Выравнивание фонового изображения по вертикали"
+
+#~ msgid "Add a new tip"
+#~ msgstr "Добавить новые подсказки"
+
+#~ msgid "Edit tips"
+#~ msgstr "Редактировать подсказки"
+
+#~ msgid "New tip"
+#~ msgstr "Новая подсказка"
+
+#~ msgid "View tips"
+#~ msgstr "Просмотреть подсказки"
+
+#~ msgid "Search tips"
+#~ msgstr "Поиск подсказок"
+
+#~ msgid "Add a New quote"
+#~ msgstr "Добавить новую цитату"
+
+#~ msgid "Edit quote"
+#~ msgstr "Редактировать цитату"
+
+#~ msgid "New quote"
+#~ msgstr "Новая цитата"
+
+#~ msgid "View quote"
+#~ msgstr "Просмотреть цитату"
+
+#~ msgid "Search quote"
+#~ msgstr "Поиск цитаты"
+
+#~ msgid "Tip label"
+#~ msgstr "Название для блока подсказки"
+
+#~ msgid "Quote label"
+#~ msgstr "Название для блока цитаты"
+
+#~ msgid "Get label of the block"
+#~ msgstr "Получить название блока из настроек"
+
+#~ msgid "Reload time (in seconds)"
+#~ msgstr "Время перезагрузки (в секундах)"
+
+#~ msgid "The file format should be png, jpg(jpeg) or gif."
+#~ msgstr ""
+#~ "Недопустимый формат файла. Пожалуйста, используйте изображения форматов "
+#~ "png, jpg(jpeg), gif."
+
+#~ msgid "Additional settings"
+#~ msgstr "Дополнительные настройки"
+
+#~ msgid "Background image"
+#~ msgstr "Фоновое изображение"
+
+#~ msgid "Use background image"
+#~ msgstr "Использовать фоновое изображение"
+
+#~ msgid "Choose an image from your computer:"
+#~ msgstr "Выберите изображение со своего компьютера:"
+
+#~ msgid "Current image"
+#~ msgstr "Текущее изображение"
+
+#~ msgid "Background image repeat"
+#~ msgstr "Повтор фонового изображения"
+
+#~ msgid "Background image horizontal alignment"
+#~ msgstr "Выравнивание фонового изображения по горизонтали"
+
+#~ msgid "powered by"
+#~ msgstr "разработанный"
+
+#~ msgid "Using Custom Search powered by"
+#~ msgstr "Используя Custom Search разработанный"
+
+#~ msgid "Download Custom Search"
+#~ msgstr "Загрузить  Custom Search"
+
+#~ msgid "Upload settings:"
+#~ msgstr "Настройки загрузки:"
+
+#~ msgid "Title options:"
+#~ msgstr "Настройки названий блоков:"
+
+#~ msgid "Tip label:"
+#~ msgstr "Название для блока подсказки:"
+
+#~ msgid "Quote label:"
+#~ msgstr "Название для блока цитаты:"
+
+#~ msgid "Background Color:"
+#~ msgstr "Цвет фона:"
+
+#~ msgid "Text Color:"
+#~ msgstr "Цвет текста:"
+
+#~ msgid "Background image:"
+#~ msgstr "Фоновое изображение"
+
+#~ msgid "Current image:"
+#~ msgstr "Текущее изображение:"
+
+#~ msgid "Background image repeat:"
+#~ msgstr "Повтор фонового изображения:"
+
+#~ msgid "Background image horizontal alignment:"
+#~ msgstr "Выравнивание фонового изображения по горизонтали:"
+
+#~ msgid "Custom code"
+#~ msgstr "Пользовательский код"
+
+#~ msgid ""
+#~ "If you would like to add Quotes and Tips block to your page or post, "
+#~ "please use %s button"
+#~ msgstr ""
+#~ "Если вы хотите добавить блок Quotes and Tips на вашу страницу или пост, "
+#~ "то используйте кнопку %s"
+
+#~ msgid ""
+#~ "You can add Quotes and Tips block to your page or post by clicking on %s "
+#~ "button in the content edit block using the Visual mode. If the button "
+#~ "isn't displayed, please use the shortcode %s"
+#~ msgstr ""
+#~ "Вы можете добавить блок  Quotes and Tips на вашу страницу или пост, нажав "
+#~ "на кнопку %s в блоке редактирования контента в режиме Visual. Если кнопка "
+#~ "не отображается, пожалуйста, используйте шорткод %s"
+
+#~ msgid "Background image vertical alignment:"
+#~ msgstr "Выравнивание фонового изображения по вертикали:"
+
+#~ msgid "Image Upload Error"
+#~ msgstr "Ошибка загрузки изображений"
+
+#~ msgid "Quote"
+#~ msgstr "Цитату"
+
+#~ msgid ""
+#~ "The plugin's settings have been changed. In order to save them please "
+#~ "don't forget to click the 'Save Changes' button."
+#~ msgstr ""
+#~ "Настройки плагина были изменены. Для того, чтобы сохранить их, "
+#~ "пожалуйста, не забудьте нажать кнопку \"Сохранить\"."
+
+#~ msgid ""
+#~ "If you would like to use this block, just copy and paste this shortcode "
+#~ "to your post or page"
+#~ msgstr ""
+#~ "Если вы хотите использовать данный блок, то вставьте данный шорткод в "
+#~ "пост или страницу"
+
+#~ msgid "If you enjoy our plugin, please give it 5 stars on WordPress"
+#~ msgstr " Если вам понравился плагин то поставте нам 5 звезд на WordPress"
+
+#~ msgid "If there is something wrong about it, please contact us"
+#~ msgstr "Если у вас есть какие-то вопросы, обращайтесь"

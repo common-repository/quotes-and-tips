@@ -1,0 +1,539 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: quotes_and_tips\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-11 12:55+0300\n"
+"PO-Revision-Date: 2018-06-11 12:55+0300\n"
+"Last-Translator: plugin@bestwebsoft.com <plugin@bestwebsoft.com>\n"
+"Language-Team: Arnold Montjoie <arnold@montjoie.de>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-qtsndtps-settings.php:24 quotes-and-tips.php:38
+#: quotes-and-tips.php:42 quotes-and-tips.php:433 quotes-and-tips.php:451
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: includes/class-qtsndtps-settings.php:25
+msgid "Appearance"
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:26
+msgid "Misc"
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:27
+msgid "Custom Code"
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:45
+msgid "Left"
+msgstr "Links"
+
+#: includes/class-qtsndtps-settings.php:46
+#: includes/class-qtsndtps-settings.php:52
+msgid "Center"
+msgstr "Mitte"
+
+#: includes/class-qtsndtps-settings.php:47
+msgid "Right"
+msgstr "Rechts"
+
+#: includes/class-qtsndtps-settings.php:51
+msgid "Top"
+msgstr "Oben"
+
+#: includes/class-qtsndtps-settings.php:53
+msgid "Bottom"
+msgstr "Unten"
+
+#: includes/class-qtsndtps-settings.php:57
+#: includes/class-qtsndtps-settings.php:276
+msgid "None"
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:58
+#: includes/class-qtsndtps-settings.php:276
+msgid "Default"
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:59
+#: includes/class-qtsndtps-settings.php:276
+msgid "Custom"
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:102
+msgid "There is no data about the uploaded file."
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:104
+msgid "Image was not uploaded by HTTP POST. Possible file upload attack."
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:106
+msgid "Wrong file format. The file should be png, jpg(jpeg) or gif."
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:108
+msgid "The file size should not exceed"
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:116
+msgid "Could not create image directory."
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:120
+#, php-format
+msgid "The uploaded file could not be moved to %s."
+msgstr "Die hochgeladene Datei konnte nicht nach %s verschoben werden."
+
+#: includes/class-qtsndtps-settings.php:134
+msgid "Could not save background image file to WordPress media library."
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:165
+msgid "Settings saved."
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:171 quotes-and-tips.php:38
+#: quotes-and-tips.php:42 quotes-and-tips.php:422
+msgid "Quotes and Tips Settings"
+msgstr "Einstellungen für Zitate und Tipps"
+
+#: includes/class-qtsndtps-settings.php:176
+msgid "Display Settings"
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:179
+msgid "Random Order With the Page Reload"
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:180
+msgid "Random Order Without the Page Reload"
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:181
+msgid "Change Frequency (in seconds)"
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:186
+msgid "Title Options"
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:189
+msgid "Set Title From Post"
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:190
+msgid "Set Custom Titles"
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:195
+msgid "Tip Title"
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:201
+msgid "Quote Title"
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:207
+msgid "Add Quotes and Tips to the Search"
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:223 quotes-and-tips.php:213
+#: quotes-and-tips.php:214
+msgid "Quotes"
+msgstr "Zitate"
+
+#: includes/class-qtsndtps-settings.php:224
+msgid "Enable to include quotes to your website search using"
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:227 quotes-and-tips.php:125
+#: quotes-and-tips.php:184 quotes-and-tips.php:185
+msgid "Tips"
+msgstr "Tipps"
+
+#: includes/class-qtsndtps-settings.php:228
+msgid "Enable to include tips to your website search using"
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:233
+#: includes/class-qtsndtps-settings.php:237
+msgid ""
+"Enable to include quotes and tips to your website search. Custom Search "
+"plugin is required."
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:233
+msgid "Activate Now"
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:237
+msgid "Install Now"
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:246
+msgid "Appearance Settings"
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:251
+msgid "Use Default Styles"
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:257
+msgid "Background Color"
+msgstr "Hintergrundfarbe"
+
+#: includes/class-qtsndtps-settings.php:265
+msgid "Text Color"
+msgstr "Textfarbe"
+
+#: includes/class-qtsndtps-settings.php:273
+msgid "Background Image"
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:289
+msgid "Current Image"
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:300
+msgid "Background Image Repeat"
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:303
+msgid "Horizontal Repeat (x)"
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:304
+msgid "Vertical Repeat (y)"
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:309
+msgid "Background Image Horizontal Alignment"
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:319
+msgid "Background Image Vertical Alignment"
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:340
+msgid "Quotes and Tips"
+msgstr "Zitate und Tipps"
+
+#: includes/class-qtsndtps-settings.php:343
+msgid ""
+"Add Quotes and Tips block to your page or post by using the following "
+"shortcode:"
+msgstr ""
+
+#: includes/class-qtsndtps-settings.php:345
+#, fuzzy
+msgid "Or add the following strings into the template source code"
+msgstr ""
+"Falls dieser Block benutzt werden soll, bitte folgende Zeichenkette in das "
+"aktuelle Template einfügen"
+
+#: quotes-and-tips.php:126
+msgid "The quotes from our clients"
+msgstr ""
+
+#: quotes-and-tips.php:194
+msgid "Add a New Tip"
+msgstr ""
+
+#: quotes-and-tips.php:195
+msgid "Edit Tip"
+msgstr ""
+
+#: quotes-and-tips.php:196
+msgid "New Tip"
+msgstr ""
+
+#: quotes-and-tips.php:197
+msgid "View Tip"
+msgstr ""
+
+#: quotes-and-tips.php:198
+msgid "Search Tip"
+msgstr ""
+
+#: quotes-and-tips.php:199
+msgid "No tips found"
+msgstr "Keine Tipps gefunden"
+
+#: quotes-and-tips.php:200
+msgid "No tips found in Trash"
+msgstr "Keine Tipps im Papiekorb gefunden"
+
+#: quotes-and-tips.php:201
+msgid "Filter tips list"
+msgstr ""
+
+#: quotes-and-tips.php:202
+msgid "Tips list navigation"
+msgstr ""
+
+#: quotes-and-tips.php:203
+#, fuzzy
+msgid "Tips list"
+msgstr "Tipps"
+
+#: quotes-and-tips.php:223
+msgid "Add a New Quote"
+msgstr ""
+
+#: quotes-and-tips.php:224
+msgid "Edit Quote"
+msgstr ""
+
+#: quotes-and-tips.php:225
+msgid "New Quote"
+msgstr ""
+
+#: quotes-and-tips.php:226
+msgid "View Quote"
+msgstr ""
+
+#: quotes-and-tips.php:227
+msgid "Search Quote"
+msgstr ""
+
+#: quotes-and-tips.php:228
+msgid "No quote found"
+msgstr "Kein Zitat gefunden"
+
+#: quotes-and-tips.php:229
+msgid "No quote found in Trash"
+msgstr "Kein Zitat im Papierkorb gefunden"
+
+#: quotes-and-tips.php:230
+msgid "Filter quotes list"
+msgstr ""
+
+#: quotes-and-tips.php:231
+msgid "Quotes list navigation"
+msgstr ""
+
+#: quotes-and-tips.php:232
+#, fuzzy
+msgid "Quotes list"
+msgstr "Zitate"
+
+#: quotes-and-tips.php:399
+msgid "Name:"
+msgstr "Name:"
+
+#: quotes-and-tips.php:403
+msgid "Official Position:"
+msgstr ""
+
+#: quotes-and-tips.php:412
+msgid "Name and Official Position"
+msgstr ""
+
+#: quotes-and-tips.php:435
+msgid "FAQ"
+msgstr "FAQ (häufig gestelle Fragen)"
+
+#: quotes-and-tips.php:436
+msgid "Support"
+msgstr "Unterstützung"
+
+#: quotes-and-tips.php:620
+msgid "MB"
+msgstr ""
+
+#: quotes-and-tips.php:624
+msgid "KB"
+msgstr ""
+
+#: quotes-and-tips.php:627
+msgid "Bytes"
+msgstr ""
+
+#: quotes-and-tips.php:636
+#, fuzzy
+msgid "Add Quotes and Tips block to your page or post"
+msgstr "Einstellungen für Zitate und Tipps"
+
+#: quotes-and-tips.php:640
+msgid "Display quotes and tips"
+msgstr ""
+
+#: quotes-and-tips.php:646
+msgid "Display quotes"
+msgstr ""
+
+#: quotes-and-tips.php:652
+msgid "Display tips"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Add Quotes and Tips block to your page or post:"
+#~ msgstr "Einstellungen für Zitate und Tipps:"
+
+#~ msgid "Upload settings"
+#~ msgstr "Einstellungen für das Hochladen"
+
+#~ msgid "Random order with the page reload"
+#~ msgstr "Zufällige Reihenfolge beim erneuten Laden der Seite"
+
+#~ msgid "Random order without the page reload"
+#~ msgstr "Zufällige Reihenfolge ohne erneutes Laden der Seite"
+
+#~ msgid "Reload time (in seconds)"
+#~ msgstr "Errneutes Laden (in Sekunden)"
+
+#~ msgid "Title options"
+#~ msgstr "Titeloptionen"
+
+#~ msgid "Get title from post"
+#~ msgstr "Hole Titel vom Beitrag"
+
+#~ msgid "Get label of the block"
+#~ msgstr "Hole Bezeichnung aus dem Block"
+
+#~ msgid "Tip label"
+#~ msgstr "Tippbezeichnung"
+
+#~ msgid "Quote label"
+#~ msgstr "Zitatbezeichnung"
+
+#, fuzzy
+#~ msgid "Add Quotes and Tips to the search"
+#~ msgstr "Einstellungen für Zitate und Tipps"
+
+#~ msgid "Additional settings"
+#~ msgstr "zusätzliche Einstellungen"
+
+#~ msgid "Background image"
+#~ msgstr "Hintergrundbild"
+
+#~ msgid "Use background image"
+#~ msgstr "Benutze Hintergrundbild"
+
+#~ msgid "Choose an image from your computer:"
+#~ msgstr "Wähle ein Bild von deinem Computer:"
+
+#~ msgid "Current image"
+#~ msgstr "Aktuelles Bild"
+
+#~ msgid "Horizontal repeat (x)"
+#~ msgstr "Horizontal wiederholen (х)"
+
+#~ msgid "Vertical repeat (y)"
+#~ msgstr "Vertikal wiederholen (у)"
+
+#~ msgid "Background image horizontal alignment"
+#~ msgstr "Hintergrundbild"
+
+#~ msgid "Background image vertical alignment"
+#~ msgstr "Vertikale Ausrichtung des Hintergrundbildes"
+
+#~ msgid "Quotes from our clients"
+#~ msgstr "Zitate unserer Kunden"
+
+#~ msgid "Add a new tip"
+#~ msgstr "Neuen Tipp erstellen"
+
+#~ msgid "Edit tips"
+#~ msgstr "Tipps bearbeiten"
+
+#~ msgid "New tip"
+#~ msgstr "Neuer Tipp"
+
+#~ msgid "View tips"
+#~ msgstr "Tipps ansehen"
+
+#~ msgid "Search tips"
+#~ msgstr "Tipps suchen"
+
+#~ msgid "Add a New quote"
+#~ msgstr "Ein neues Zitat erstellen"
+
+#~ msgid "Edit quote"
+#~ msgstr "Zitat bearbeiten"
+
+#~ msgid "New quote"
+#~ msgstr "Neues Zitat"
+
+#~ msgid "View quote"
+#~ msgstr "Zitat ansehen"
+
+#~ msgid "Search quote"
+#~ msgstr "Zitat suchen"
+
+#~ msgid "Official position:"
+#~ msgstr "berufliche Position:"
+
+#~ msgid "Name and Official position"
+#~ msgstr "Name und berufliche Position:"
+
+#~ msgid "Settings saved"
+#~ msgstr "Einstellungen gespeichert"
+
+#~ msgid "Upload settings:"
+#~ msgstr "Einstellungen für das Hochladen"
+
+#~ msgid "Title options:"
+#~ msgstr "Titeloptionen"
+
+#~ msgid "Tip label:"
+#~ msgstr "Tippbezeichnung"
+
+#~ msgid "Quote label:"
+#~ msgstr "Zitatbezeichnung"
+
+#~ msgid "Background Color:"
+#~ msgstr "Hintergrundfarbe:"
+
+#~ msgid "Text Color:"
+#~ msgstr "Textfarbe:"
+
+#~ msgid "Background image:"
+#~ msgstr "Hintergrundbild:"
+
+#~ msgid "Current image:"
+#~ msgstr "Aktuelles Bild:"
+
+#~ msgid "Background image repeat:"
+#~ msgstr "Hintergrundbild wiederholen:"
+
+#~ msgid "Background image horizontal alignment:"
+#~ msgstr "Hintergrundbild "
+
+#~ msgid "Background image vertical alignment:"
+#~ msgstr "Vertikale Ausrichtung des Hintergrundbildes"
+
+#~ msgid "Save Changes"
+#~ msgstr "Änderungen speichern"
+
+#~ msgid "Image Processing Error"
+#~ msgstr "Fehler in der Bildverarbeitung"
+
+#~ msgid "Image Upload Error"
+#~ msgstr "Fehler beim Hochladen eines Bildes"
+
+#, fuzzy
+#~ msgid "Quote"
+#~ msgstr "Zitate"
+
+#, fuzzy
+#~ msgid ""
+#~ "If you would like to use this block, just copy and paste this shortcode "
+#~ "to your post or page"
+#~ msgstr ""
+#~ "Falls dieser Block benutzt werden soll, bitte folgende Zeichenkette in "
+#~ "das aktuelle Template einfügen"
+
+#, fuzzy
+#~ msgid "Plugins page"
+#~ msgstr "Empfohlene Plugins"

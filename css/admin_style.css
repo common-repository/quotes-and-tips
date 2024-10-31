@@ -1,0 +1,6 @@
+/*
+ * styles for settings page
+ */
+#bws_settings_tabs .bws-tab-appearance a:before{
+	content: "\f100";
+}
